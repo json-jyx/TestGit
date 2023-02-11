@@ -1,3 +1,3 @@
 1.insert a    a1
 2.insert b    b1
-3.insert c	  by master
+3.insert c	 merge 
